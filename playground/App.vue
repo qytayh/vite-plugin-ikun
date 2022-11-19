@@ -1,0 +1,1 @@
+<template>App</template>
